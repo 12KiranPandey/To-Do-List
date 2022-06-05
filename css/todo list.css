@@ -1,0 +1,102 @@
+body{
+    background-color: #413F42;
+}
+.container1{
+    background-color: #FF8264;
+    
+    color: white;
+    font-style:sans-serif,italic;
+    height: 120px;
+    width: 730px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+
+}
+
+.title{
+    margin-left: 45px;
+    background-color:white;
+    padding: 10px;
+    border: 1px solid white;
+    color:black;
+
+}
+.btn1{
+    background-color:#FFF5A5;
+    color:rgba(0,0,0,0.6);
+    font-size: 20px;
+    
+    width: 60px;
+    border: 1px solid white;
+    padding: 7px;
+
+}
+.data{
+
+    background-color:white;
+    padding: 10px;
+    border: 1px solid white;
+    color:black;
+}
+.desc{
+    background-color:white;
+    padding: 10px;
+    border: 1px solid white;
+    color: black;
+}
+.taskdiv1{
+    height: 260px;
+    width: 240px;
+    border:1px solid #C6DCE4;
+    background-color:#95CD41;
+    color: rgba(0,0,0,0.6);
+    text-indent: 2pc;
+    margin-left: 45px;
+}
+.remove{
+    color:#FFFDA2;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+.cheack{
+    color:#FFFDA2;
+    font-weight: bold;
+    font-size: 40px;
+    display: inline;
+    margin-left: 30px;
+
+
+
+}
+.info{
+    background-color:#95CD41;
+    border: 1px solid rgba(0,0,0,0.2);
+    color:black;
+    width: 150px;
+    margin-left: 20px;
+     
+}
+.activediv{
+    background-color: #F2F5C8;
+    margin-top: 0px;
+    height:340px;
+     width:365px;
+     text-align: center;
+    
+}
+.penndingdiv{
+    background-color: #E8E8A6;
+    margin-top: 0px;
+    height:340px;
+    width:365px;
+    text-align: center;
+   
+}
+.shift{
+    /* margin-left:auto;
+    margin-right: auto; */
+    justify-content: center;
+
+}
