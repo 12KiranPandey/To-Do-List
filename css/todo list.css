@@ -100,3 +100,9 @@ body{
     justify-content: center;
 
 }
+.remove:hover{
+    color: #FF8264;
+}
+.cheack:hover{
+    color: #FF8264;
+}
