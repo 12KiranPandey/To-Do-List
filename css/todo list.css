@@ -81,7 +81,6 @@ body{
 .activediv{
     background-color: #F2F5C8;
     margin-top: 0px;
-    height:340px;
      width:365px;
      text-align: center;
     
@@ -89,7 +88,6 @@ body{
 .penndingdiv{
     background-color: #E8E8A6;
     margin-top: 0px;
-    height:340px;
     width:365px;
     text-align: center;
    
